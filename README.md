@@ -5,4 +5,6 @@ A web map related to hazard-disaster management planning for Sunda Strait that i
 2. js, contains javascript file needed to run the map
 
 ## Credit
-This is an intern project of Botram Ocean Technology Research and Management. All the data is credit to Botram Ocean Technology Research and Management.
+This is an intern project of Botram Ocean Technology Research and Management.
+
+All the data is credit to Botram Ocean Technology Research and Management.
